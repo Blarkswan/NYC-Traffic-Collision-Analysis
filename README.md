@@ -103,3 +103,5 @@ The high number of "Unspecified" records suggests an opportunity to improve coll
 ### Conclusion
 
 This analysis demonstrates how data visualization and business intelligence tools can support evidence-based transportation planning and public safety. By identifying temporal trends, high-risk locations, and contributing factors, city authorities can make informed decisions that reduce collisions, improve road safety, and enhance the overall transportation network.
+
+Find Interactive Dashboard [HERE](https://app.powerbi.com/groups/me/reports/9a2289eb-f3f9-4492-aafa-fb4cdab28bb4/18e5b9767674da1c1367?experience=power-bi)
